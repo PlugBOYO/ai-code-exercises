@@ -247,4 +247,3 @@ async def login(username: str, password: str, db: AsyncSession = Depends(get_db)
 
 
 
-Do you want me to do that next?
